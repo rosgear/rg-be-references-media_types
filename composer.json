@@ -1,7 +1,7 @@
 {
     "name": "rosgear/rg-be-references-media_types",
-    "description": "Extension (module) \"Media types\" for the GePanel Control Panel",
-    "keywords": ["rosgear", "gepanel", "extension (module)"],
+    "description": "Module extension \"Media types\" for the GePanel Control Panel",
+    "keywords": ["rosgear", "gepanel", "module", "extension"],
     "homepage": "https://rosgear.ru/component/rg-be-references-media_types/",
     "type": "component",
     "license": "MIT",
